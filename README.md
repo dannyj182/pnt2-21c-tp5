@@ -16,7 +16,7 @@ npm run serve
 
 ---
 
-### Pueden probar el juego [acá](https://dannyj182.github.io/pnt2-21c-tp5/)
+### Pueden probar el juego [acá], se pasó a Vue CDN para poder usar GitHub Pages (https://dannyj182.github.io/pnt2-21c-tp5/)
 
 ### Espero que les guste
 
