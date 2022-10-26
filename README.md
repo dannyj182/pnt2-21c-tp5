@@ -16,6 +16,8 @@ npm run serve
 
 ---
 
+### Pueden probar el juego [acá](https://dannyj182.github.io/pnt2-21c-tp5/)
+
 ### Espero que les guste
 
 ### Cualquier duda o consulta pueden escribir a dannyj182@gmail.com
